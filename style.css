@@ -1,0 +1,25 @@
+body {
+	width:50%;
+  	margin: 4em auto;
+	color: white;
+}
+
+button {
+	margin: 0 auto;
+	padding:1em;
+	color: #333333;
+}
+
+button.on {
+	background-color: #5B8C5A;
+}
+
+.buttons {
+	text-align: center;
+}
+
+#screen {
+  height:400px;
+  background-color:#594778;
+  margin: 1em; 
+}
